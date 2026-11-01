@@ -94,8 +94,8 @@ GPU 模式注意：Relax 模式下 `--repeat`、排列提示词、HD 视频均�
 
 ## 深入参考
 
-- 参数兼容性全表与失效参数详解：[references/parameters.md](references/parameters.md)
-- 六层结构详解、题材模板与质量词库：[references/templates.md](references/templates.md)
+- 参数兼容性全表与失效参数详解：[references/parameters.md](parameters.md)
+- 六层结构详解、题材模板与质量词库：[references/templates.md](templates.md)
 
 ## 资料来源
 
